@@ -11,7 +11,7 @@
         }
     ],
     "require": {
-        "yiisoft/yii2": "*"
+        "spatie/schema-org": "^3.9"
     },
     "autoload": {
         "psr-4": {
