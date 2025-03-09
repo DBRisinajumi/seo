@@ -1,0 +1,21 @@
+{
+    "name": "dbrisinajumi/seo",
+    "description": "Implementing Schema.org Types And ld+json for Google SEO",
+    "type": "library",
+    "keywords": ["SEO"],
+    "license": "Apache-2.0",
+    "authors": [
+        {
+            "name": "DB Risinājumi",
+            "email": "uldis@weberp.lv"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "src\\": ""
+        }
+    }
+}
