@@ -1,5 +1,5 @@
 <?php
-namespace DBRisinajumi\src\Seo;
+namespace DBRisinajumi\Seo;
 
 use Spatie\SchemaOrg\AboutPage;
 
